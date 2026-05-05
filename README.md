@@ -19,7 +19,6 @@ A modular, systems-driven simulation engine built to demonstrate advanced **Inhe
 * **`Item.h / Weapon.h / Armor.h / Engine.h`**: The polymorphic hierarchy defining ship upgrades.
 * **`Planet.h / Enemy.h / Gas.h / Mining.h`**: A derived system for diverse planetary encounters and resource nodes.
 * **`Game.h / .cpp`**: The primary engine handling the main simulation loop, file I/O, and win/loss state logic.
-* **`makefile`**: Automated build script with dedicated targets for compilation, execution, and memory leak testing via Valgrind.
   
 ***
 
