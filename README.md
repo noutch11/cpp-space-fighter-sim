@@ -20,3 +20,7 @@ A modular, systems-driven simulation engine built to demonstrate advanced **Inhe
 * **`Planet.h / Enemy.h / Gas.h / Mining.h`**: A derived system for diverse planetary encounters and resource nodes.
 * **`Game.h / .cpp`**: The primary engine handling the main simulation loop, file I/O, and win/loss state logic.
 * **`makefile`**: Automated build script with dedicated targets for compilation, execution, and memory leak testing via Valgrind.
+  
+***
+
+**Note:** This project was developed as part of the **CMSC 202: Computer Science II** curriculum at **UMBC**. While the core engine and data structures were independently developed, the initial project architecture and data files were provided as part of the coursework.
